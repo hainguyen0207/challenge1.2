@@ -1,0 +1,63 @@
+.container {
+    margin-top: 20px;
+}
+
+.user-details-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.received-messages-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.send-message-box {
+    border: 1px solid #ccc;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+h2 {
+    color: #007bff; /* Màu xanh dương */
+}
+
+.send-message-box textarea {
+    height: 100px;
+    resize: none;
+}
+
+.send-message-box .btn-primary {
+    float: left;
+    margin-right: 10px;
+}
+
+.send-message-box .btn-secondary {
+    float: right;
+}
+h2 {
+    padding: 10px; /* Thêm padding cho tiêu đề */
+    background-color: #007bff; /* Màu nền xanh dương */
+    color: #fff; /* Màu chữ trắng */
+    border-radius: 5px; /* Bo góc khung */
+}
+
+.send-message-box textarea {
+    height: 100px;
+    resize: none;
+}
+
+.send-message-box .btn-primary {
+    float: left;
+    margin-right: 10px;
+}
+
+.send-message-box .btn-secondary {
+    float: right;
+}
+
+.btn-equal {
+    width: 100px; 
+    margin-right: 5px;
+}
