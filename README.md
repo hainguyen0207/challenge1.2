@@ -5,7 +5,7 @@ Các lệnh thực thi :
     php artisan migrate:fresh
     php artisan db:seed --class=UsersTableSeeder (nhớ chạy lệnh này để tạo tài khoản login)
     php artisan serve
-Sau đó truy cập với tài khoản : 
+Sau đó truy cập với tài khoản teacher : 
 
     Username: demo@gmail.com
     
